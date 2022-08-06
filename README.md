@@ -1,11 +1,11 @@
 # guessing-game
-An implementation of the guessing game tutorial as described on the Rust website - https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html. 
+An implementation of the guessing game tutorial as described on the Rust website - https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html. To test it, clone the repo and enter `cargo run` in the terminal:
 
 The game is summarized as a lottery game, where a randomly selected winning number exists between 1-100 (integer)
 
 The user is repeatedly prompted to select a number (integer) between 1-100: 
 
-```
+```console
 Winning number = 83
 
 Guess a number between 1-100. 3 out of 3 tries remaining.
